@@ -10,9 +10,9 @@ The following steps are suggested for deploying this module. The instructions as
 
 # Step 1: Discussion of operating systems 
 
-(*) Students should be made aware that there are three main flavors of operating systems (Windows, Linux, MacOS) and that some minor differences in conventions exist among them.
-(*) Provide students with the document OperatingSystems-WindowsUsers.pdf. This is especially important for Windows users.
-  (*) Installation instructions for Windows users can be found by viewing the following video created specifically for this module: https://www.youtube.com/watch?v=-JJWJXrLF0A
+* Students should be made aware that there are three main flavors of operating systems (Windows, Linux, MacOS) and that some minor differences in conventions exist among them.
+* Provide students with the document OperatingSystems-WindowsUsers.pdf. This is especially important for Windows users.
+  * Installation instructions for Windows users can be found by viewing the following video created specifically for this module: https://www.youtube.com/watch?v=-JJWJXrLF0A
 
 # Step 2: Installing Anaconda
 
